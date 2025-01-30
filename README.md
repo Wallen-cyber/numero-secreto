@@ -1,8 +1,13 @@
-INFORMAÇÕES DA EQUIPE QUE ATUOU NO JOGO DO NÚMERO SECRETO
+<h1>Jogo do número secreto</h1>
+
+<h2> Sobre</h2>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p><
+
+## Tecnologias
+<div>
+  <img src>
+</div>
 
 
 
-
-EQUIPE
-![FOTO WALLEN](https://github.com/user-attachments/assets/4ae48995-b541-40af-89f0-c511bd39ae5e)
 
