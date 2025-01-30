@@ -8,6 +8,6 @@
   <img src>
 </div>
 
-> Aqui tem uma [página com os códigos mais frequentes](https://www.alura.com.br/artigos/como-trabalhar-com-markdown)) do markdon
+> Aqui tem uma [página com os códigos mais frequentes](https://www.alura.com.br/artigos/como-trabalhar-com-markdown) do markdon
 
 
